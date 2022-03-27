@@ -60,13 +60,6 @@ Sie finden den detaillierten Zeitplan des Semesters in diesem [Google Spreadshee
 - Nachklausur: am Fr 16.09.2022, 10:00 Uhr, Raum B101
   - Rückgabe am Fr 23.09.2022, 10:00 Uhr, Raum B101
 
-### In welcher Semesterwoche (SW) wird welche Aufgabe abgegeben/vorgeführt?
-
-| | | | | | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|__Abgabe__| 1 | 2 | 3 | 4 | 5 | 6 | 7  | 8  |  9 | 10 | 11 | 12
-|__SW__    | 3 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15
-
 ### Belegungszeitraum 
 
 - Studierende im ersten Semester: 01.04.2022 bis 19.04.2022
@@ -75,7 +68,7 @@ Sie finden den detaillierten Zeitplan des Semesters in diesem [Google Spreadshee
 
 ### 1. Übungsgruppen
 
-Für diese LV sind 2 Übungsgruppen (1a und 1b) mit jeweils etwas mehr als 20 TeilnehmerInnen geplant. Welche Gruppe Sie im Online-Belegsystem belegt haben, ist unwichtig (wichtig ist nur, dass Sie eine belegt haben). Wer zu welcher Übungsgruppe gehört, wird ___am Mi 06.04.2022 im 3. Block (ab 12:55 Uhr) im Raum D 136/H5___ (d.h. im ersten SU) festgelegt. Wenn es für eine der Gruppen mehr Interessierte als Plätze gibt, entscheidet ein Losverfahren. An diesem Losverfahren können nur persönlich Anwesende teilnehmen.
+Für diese LV sind 2 Übungsgruppen (1a und 1b) mit jeweils etwas mehr als 20 TeilnehmerInnen geplant. Welche Gruppe Sie im Online-Belegsystem belegt haben, ist unwichtig (wichtig ist nur, dass Sie eine belegt haben). Wer zu welcher Übungsgruppe gehört, wird ___am Mi 06.04.2022 im 3. Block (ab 12:15 Uhr) im Raum D 136/H5___ (d.h. im ersten SU) festgelegt. Wenn es für eine der Gruppen mehr Interessierte als Plätze gibt, entscheidet ein Losverfahren. An diesem Losverfahren können nur persönlich Anwesende teilnehmen.
 
 Ein Wechsel der Übungsgruppe, z.B. von 1a nach 1b, ist nur möglich, wenn Sie jemanden finden, der gleichzeitig von 1b nach 1a wechseln möchte. Informieren Sie mich in einem solchen Fall (persönlich oder per Email).
 
@@ -89,26 +82,27 @@ Es wird dringend empfohlen, entweder beide Module zu belegen oder keinen. Nur ei
 
 #### 2.1 Praktische Aufgaben
 
-Sie werden im Laufe des Semesters 12 Programmieraufgaben erhlaten und lösen. Sie haben für die Bearbeitung jeder Aufgabe immer mindestens eine Woche Zeit. Sie präsentieren mit ihre Ergebnisse in einer der Übungsstunden. Zur Präsentation sollten sie persönlich in den Übungsstunden anwesend und bereit sein, Fragen zu der Aufgabe und der Lösung zu beantworten.
+Sie werden im Laufe des Semesters 12 Programmieraufgaben erhalten und lösen. Sie haben für die Bearbeitung jeder Aufgabe immer mindestens eine Woche Zeit. Sie präsentieren mit ihre Ergebnisse in einer der Übungsstunden. Zur Präsentation sollten sie persönlich in den Übungsstunden anwesend und bereit sein, Fragen zu der Aufgabe und der Lösung zu beantworten.
 
-Für jede Aufgabe erhalten Sie ein "bestanden" oder "nicht bestanden".  Die Aufgaben werden wöchentlich [in Moodle](https://lms.bht-berlin.de/course/view.php?id=25525) jeden Freitag nach der SU um 11:30 freigeschaltet.
-
-Die müssen 10 von 12 Übungsaufgaben bestehen, damit Sie zur Klausur zugelassen sind.
+- Für jede Aufgabe erhalten Sie ein "bestanden" oder "nicht bestanden".  Die Aufgaben werden wöchentlich [im Moodle-Kurs](https://lms.bht-berlin.de/course/view.php?id=25525) freigeschaltet.
+- Sie müssen 10 von 12 Übungsaufgaben bestehen, damit Sie zur Klausur zugelassen sind.
+- Jede Aufgabe hat eine Deadline, die sie dem Zeitplan (siehe oben) entnehemen können. Die Modalitäten für die jeweiligen Übungen werden individuell bekannt gemacht.
+- Wenn Sie eine Übung nicht oder verspätetet einreichen, dann haben Sie diese Übung automatisch nicht bestanden. Dabei spielt es keine Rolle, warum Sie die Übung nicht oder verspätet eingereicht haben (war krank, meine S-Bahn hat sich verspätet, musste einen hohen Lottogewinn persönlich abholen etc.). Das "Nachreichen" einer verpassten Übung
+ist nicht möglich. Verwalten Sie die 2 Übungen, die Sie nicht unbedingt einreichen müssen, mit Vorsicht und Sparsamkeit und rechnen Sie mit unerwarteten Ereignissen (mit einer Krankheit, einer Störung
+der S-Bahn, einem hohen Lottogewinn etc.). Besonders empfehlenswert ist der Plan, alle 12 Übungen abzugeben. Dadurch erhöhen Sie Ihre Chancen, zur Klausue zugelassen zu werden.
 
 Regeln:
 - Sie geben nur eigene Lösungen ab, welche Sie selbst
 verfasst und verstanden haben.
 - Ich prüfen das (zum Teil automatisiert) nach und behalte mir
-insbesondere in den mündlichen Prüfgespräche vor zu prüfen, dass sie selbständig die Aufgaben bearbeitet haben.
+insbesondere in der Präsentation der Übungen vor zu prüfen, dass sie selbständig die Aufgaben bearbeitet haben.
 - Es gilt primär die Unschuldsvermutung. Ich möchte lediglich wissen, ob Sie verstanden haben, was Sie abgegeben haben.
-- Die Aufgaben sind immer spätestens bis zum Dienstag 8:00 abzugeben. Die Modalitäten für die Abgabe klären wir in der SU.
-- Verspätete Abgaben führen automatisch zu der Bewertung "nicht bestanden".
 
 #### 2.2 Klausur
 
-Sollten Sie die Zulassung zur Klausur erworben haben (siehe oben), dürfen Sie am Ende der Vorlesungszeit die Hauptklausur, oder kurz vor dem Ende des Semesters eine Nachklausur schreiben. 
+Sollten Sie die Zulassung zur Klausur erworben haben (indem sie mindestens 10 von 12 Übungen einreichen und bestehen), dürfen Sie am Ende der Vorlesungszeit die Hauptklausur, oder kurz vor dem Ende des Semesters eine Nachklausur schreiben. 
 
-Zu diesen Klausuren darf man keine Unterlagenmitbringen. In einer Klausur können Sie 100 Punkte erreichen. Daraus wird nach der folgenden Tabelle Ihre Note für den Kurs ermittelt:
+Zu diesen Klausuren dürfen Sie keine Unterlagen mitbringen. In einer Klausur können Sie 100 Punkte erreichen. Daraus wird nach der folgenden Tabelle Ihre Note für den Kurs ermittelt:
 
 | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
