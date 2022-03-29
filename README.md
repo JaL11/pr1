@@ -83,7 +83,7 @@ Sie finden den detaillierten Zeitplan des Semesters in diesem [Google Spreadshee
 
 ### 1. Übungsgruppen
 
-Für diese LV sind 2 Übungsgruppen (1a und 1b) mit jeweils etwas mehr als 20 TeilnehmerInnen geplant. Welche Gruppe Sie im Online-Belegsystem belegt haben, ist unwichtig (wichtig ist nur, dass Sie eine belegt haben). Wer zu welcher Übungsgruppe gehört, wird in der ersten SU festgelegt. Wenn es für eine der Gruppen mehr Interessierte als Plätze gibt, entscheidet ein Losverfahren. An diesem Losverfahren können nur persönlich Anwesende teilnehmen.
+Für diese LV sind 2 Übungsgruppen (1a und 1b) mit jeweils etwas mehr als 20 TeilnehmerInnen geplant. Welche Gruppe Sie im Online-Belegsystem belegt haben, ist unwichtig (wichtig ist nur, dass Sie eine belegt haben). Wer zu welcher Übungsgruppe gehört, wird über das [Moodle-Modul "Gruppenaufteilung"](https://lms.bht-berlin.de/mod/ratingallocate/view.php?id=870678) festgelegt. Dort wählen Sie Ihre Präferenzen für die Übungsgruppe.
 
 Ein Wechsel der Übungsgruppe, z.B. von 1a nach 1b, ist nur möglich, wenn Sie jemanden finden, der gleichzeitig von 1b nach 1a wechseln möchte. Informieren Sie mich in einem solchen Fall (persönlich oder per Email).
 
