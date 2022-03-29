@@ -12,13 +12,13 @@ Sie werden Codeboard für das Bearbeiten und Einreichen der ersten Übungen nutz
 
 Bitte erstellen sie ein Codeboard-Konto unter folgender Url: https://codeboard.io/signup
 
-- Verwenden Sie als `Benutzernamen` ihre Matrikel-Nummer im folgenden Aufbau `bht_{MATRIKELNUMMER}`.
+- Verwenden Sie als `Benutzernamen` ihre Matrikel-Nummer im folgenden Aufbau `bht{MATRIKELNUMMER}`.
 - Als `E-Mail Adresse` verwenden Sie ihre übliche Adresse (ihren [Campus-Account](https://doku.bht-berlin.de/account#studierende))
 - Bitte verwenden Sie bei der Registrierung ein spezifisches Passwort, statt ihr Password des Campus-Accounts wiederzuverwenden.
 
 ___Beispiel:___
 ```
-Username: bht_232424
+Username: bht232424
 E-Mail: s12345@bht-berlin.de
 ```
 
