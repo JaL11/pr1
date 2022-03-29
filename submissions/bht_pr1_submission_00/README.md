@@ -1,5 +1,3 @@
-# Übung 1 – Mathe
-
 # Übung 1 – Einrichten von Konten, Beispiel-Übung, grafische Programmierung
 
 ## Bei codeboard.io ein Konto erstellen
@@ -24,7 +22,9 @@ Username: bht_232424
 E-Mail: s12345@bht-berlin.de
 ```
 
-![Codebboard Signup](codeboard_signup.jpg)
+<center>
+  <img src="codeboard_signup.jpg" alt="Codeboard Signup" width="500">
+</center>
 
 
 ## Beispiel Codeboard im Moodle aufrufen
@@ -33,15 +33,22 @@ Ist ihre Registrierung erfolgt, rufen Sie die [Beispiel-Übung im Moodle-Kurs](h
 
 - Loggen Sie sich bitte mit ihrem Codeboard-Account ein:
 
-![Codebboard Signup](codeboard_example_assignment.jpg)
+<center>
+  <img src="codeboard_example_assignment.jpg" alt="Codeboard Example Assignment" width="500">
+</center>
 
 - Um zu Prüfen ob Codeboard in Ihrem Browser funktioniert, betätigen Sie den `Compile` Button:
 
-![Codebboard Signup](codeboard_example_assignment_compile.jpg)
+<center>
+  <img src="codeboard_example_assignment_compile.jpg" alt="Press Compile Button" width="500">
+</center>
+
 
 - Um zu Prüfen ob das Einreichen Ihrer Übungen funktioniert, betätigen Sie den `Submit` Button:
 
-![Codebboard Signup](codeboard_example_assignment_submit.jpg)
+<center>
+  <img src="codeboard_example_assignment_submit.jpg" alt="Press Submit Button" width="500">
+</center>
 
 ## Grafische Programmierung
 
