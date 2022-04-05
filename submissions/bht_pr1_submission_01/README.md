@@ -32,13 +32,20 @@ Ergänzen Sie das Programm um folgende Fragen und Antworten:
 
 ## Hinweis für die Auto-Bewertung
 
-- Bitte genau eine Zeile pro Frage in der Console drucken, genau in diesem Format:
+
+- Die Ausgabe der Fragen wird nicht geprüft und dient Ihnen nur zur besseren Lesbarkeit der Ausgaben Ihres Codes.
+- Bitte lassen Sie die Ausgabe für `Frage 0` im Code stehen.
+- Die Antworten werden aber automatisiert geprüft. Bitte lassen Sie Ihr Programm genau eine Zeile pro Antwort in der Console ausgeben, genau in diesem Format:
 
 ```
 Aufgabe x: Antwort
 ```
 
-Bitte lassen Sie die Ausgabe für `Frage 0` im Code stehen.
+also beispielsweise:
+
+```
+Antwort 99: 12345
+```
 
 ## Code-Konventionen beachten
 
