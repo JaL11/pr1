@@ -51,6 +51,7 @@ Antwort 99: 12345
 
 - Kommentare
 - Sinnvolle Variablennamen
+- Sinnvolle Einrückungen vom Code, die das Lesen und den Programmablauf untersützen
 - Kein Hardcoding
 
 ---
