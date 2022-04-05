@@ -1,4 +1,4 @@
-# Übung 1 – Einrichten von Konten, Beispiel-Übung, grafische Programmierung
+# Übung 0 – Einrichten von Konten, Beispiel-Übung, grafische Programmierung
 
 ## Bei codeboard.io ein Konto erstellen
 
