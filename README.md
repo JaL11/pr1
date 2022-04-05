@@ -107,16 +107,18 @@ Jede Aufgabe hat eine Deadline bis zu der die Übung einregreicht werden muss. D
 
 ___Präsentation___
 
-Sie präsentieren mir ihre Ergebnisse in einer der Übungsstunden ihrer Übunggruppe. Zur Präsentation sollten sie persönlich in der Übungsstunde anwesend und bereit sein, Fragen zu der Aufgabe und der Lösung zu beantworten. Für jede Aufgabe erhalten Sie ein "bestanden" oder "nicht bestanden". Wenn Sie eine Übung nicht oder verspätetet einreichen, dann haben Sie diese Übung automatisch nicht bestanden. Dabei spielt es keine Rolle, warum Sie die Übung nicht oder verspätet eingereicht haben (war krank, meine S-Bahn hat sich verspätet, musste einen hohen Lottogewinn persönlich abholen etc.). Das "Nachreichen" einer verpassten Übung ist nicht möglich. 
+Ihre eingereichten Übungen werden automatisch und zusätzlich qualitativ von mir geprüft. Bei Bedarf werde ich stichprobenartig mit Ihnen einen Termin ansetzen, bei dem Sie mit Ihre Ergebnisse präsentieren. Zur Präsentation sollten sie persönlich in der Übungsstunde anwesend und bereit sein, Fragen zu der Aufgabe und der Lösung zu beantworten. 
+
+Für jede Aufgabe erhalten Sie ein "bestanden" oder "nicht bestanden". **Wenn Sie eine Übung nicht oder verspätetet einreichen, dann haben Sie diese Übung automatisch nicht bestanden**. Dabei spielt es keine Rolle, warum Sie die Übung nicht oder verspätet eingereicht haben (war krank, meine S-Bahn hat sich verspätet, musste einen hohen Lottogewinn persönlich abholen etc.). Das "Nachreichen" einer verpassten Übung ist nicht möglich. 
 
 ___Ziele___
 
-Sie müssen 10 von 12 Übungsaufgaben bestehen, damit Sie zur Klausur zugelassen sind. Verwalten Sie daher die 2 Übungen, die Sie nicht unbedingt einreichen müssen, mit Vorsicht und Sparsamkeit und rechnen Sie mit unerwarteten Ereignissen (mit einer Krankheit, einer Störung der S-Bahn, einem hohen Lottogewinn etc.). Besonders empfehlenswert ist der Plan, alle 12 Übungen abzugeben. Dadurch erhöhen Sie Ihre Chancen, zur Klausue zugelassen zu werden.
+Sie müssen 10 von 12 Übungsaufgaben bestehen, damit Sie zur Klausur zugelassen sind. Verwalten Sie daher die 2 Übungen, die Sie nicht unbedingt einreichen müssen, mit Vorsicht und Sparsamkeit und rechnen Sie mit unerwarteten Ereignissen (mit einer Krankheit, einer Störung der S-Bahn, einem hohen Lottogewinn etc.). Besonders empfehlenswert ist der Plan, alle 12 Übungen abzugeben. Dadurch erhöhen Sie Ihre Chancen, zur Klausur zugelassen zu werden.
 
 ___Regeln der Fairness und Respekts___
 
 - Sie geben nur eigene Lösungen ab, welche Sie selbst verfasst und verstanden haben.
-- Ich prüfen das (zum Teil automatisiert) nach und behalte mir insbesondere in der Präsentation der Übungen vor zu prüfen, dass sie selbständig die Aufgaben bearbeitet haben.
+- Ich prüfen das (zum Teil automatisiert) nach und behalte mir insbesondere in den Präsentationen der Übungen vor zu prüfen, dass sie selbständig die Aufgaben bearbeitet haben.
 - Es gilt primär die Unschuldsvermutung. Ich möchte lediglich wissen, ob Sie verstanden haben, was Sie abgegeben haben.
 
 #### 2.2 Klausur
