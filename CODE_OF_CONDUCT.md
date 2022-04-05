@@ -2,15 +2,11 @@
 
 ## Unser Versprechen
 
-Im Interesse der Förderung einer offenen und einladenden Umgebung verpflichten wir uns als Studenten und Dozenten (die Gemeinschaft), die Teilnahme den Veranstaltungen der BHT
-zu einer belästigungsfreien Erfahrung für alle zu machen, unabhängig von Alter, Körpergröße Größe, Behinderung, ethnischer Zugehörigkeit, Geschlechtsmerkmalen, 
-Geschlechtsidentität und -ausdruck, Erfahrung, Bildung, sozioökonomischem Status, Nationalität, persönlichem Aussehen Nationalität, persönlichem Aussehen, 
-Rasse, Religion oder sexueller Identität und Orientierung.
+Im Interesse der Förderung einer offenen und einladenden Umgebung verpflichten wir uns als Studenten und Dozenten (die Gemeinschaft), die Teilnahme an den Veranstaltungen der BHT zu einer belästigungsfreien Erfahrung für alle zu machen, unabhängig von Alter, Körpergröße Größe, Behinderung, ethnischer Zugehörigkeit, Geschlechtsmerkmalen,  Geschlechtsidentität und -ausdruck, Erfahrung, Bildung, sozioökonomischem Status, Nationalität, persönlichem Aussehen Nationalität, persönlichem Aussehen, Rasse, Religion oder sexueller Identität und Orientierung.
 
 ## Unsere Standards
 
-Beispiele für ein Verhalten, das zur Schaffung eines positiven Umfelds beiträgt
-umfassen:
+Beispiele für ein Verhalten, das zur Schaffung eines positiven Umfelds beiträgt umfassen:
 
 * Verwendung einer einladenden und integrativen Sprache
 * Respekt vor unterschiedlichen Standpunkten und Erfahrungen
@@ -28,12 +24,12 @@ Beispiele für inakzeptables Verhalten von Teilnehmern sind:
 
 ## Unsere Verantwortlichkeiten
 
-Die Dozenten sind verantwortlich für die Klärung der Standards für akzeptables Verhalten.
-Es wird erwartet, dass sie angemessene und faire Korrekturmaßnahmen ergreifen auf inakzeptables Verhalten reagieren.
+Der Dozentt ist verantwortlich für die Klärung der Standards für akzeptables Verhalten.
+Es wird erwartet, dass er angemessene und faire Korrekturmaßnahmen ergreift auf inakzeptables Verhalten reagiert.
 
-Die Dozenten haben das Recht und die Verantwortung, Kommentare, Code, Probleme und andere Beiträge die nicht mit 
-diesem Verhaltenskodex übereinstimmen, zu bearbeiten oder abzulehnen, oder dauerhaft zu verbieten, wenn sie andere 
-Verhaltensweisen für unangemessen halten, bedrohlich, beleidigend oder schädlich erachten.
+Der Dozent hat das Recht und die Verantwortung, Kommentare, Code, Nachrichten und andere Beiträge die nicht mit 
+diesem Verhaltenskodex übereinstimmen, zu bearbeiten oder abzulehnen, oder dauerhaft zu verbieten, wenn er die 
+Verhaltensweise für unangemessen halten, bedrohlich, beleidigend oder schädlich erachtet.
 
 ## Geltungsbereich
 
