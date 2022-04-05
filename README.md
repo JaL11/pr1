@@ -123,6 +123,8 @@ ___Regeln der Fairness und Respekts___
 - Ich prüfen das (zum Teil automatisiert) nach und behalte mir insbesondere in den Präsentationen der Übungen vor zu prüfen, dass sie selbständig die Aufgaben bearbeitet haben.
 - Es gilt primär die Unschuldsvermutung. Ich möchte lediglich wissen, ob Sie verstanden haben, was Sie abgegeben haben.
 
+Zudem gelten die [Verhaltenskodex der Gemeinschaft (Code of Conduct)](CODE_OF_CONDUCT.md), die Sie bitte aufmerksam lesen.
+
 #### 2.2 Klausur
 
 Sollten Sie die Zulassung zur Klausur erworben haben (indem sie mindestens 10 von 12 Übungen einreichen und bestehen), dürfen Sie am Ende der Vorlesungszeit die Hauptklausur, oder kurz vor dem Ende des Semesters eine Nachklausur schreiben. 
