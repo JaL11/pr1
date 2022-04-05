@@ -1,10 +1,14 @@
 # Übung 1 – Mathe
 
+![Multicolored Abacus Photography](pexels-skitterphoto-1019470.jpg)
+ *https://www.pexels.com/photo/multicolored-abacus-photography-1019470/*
+
+
 ## codeboard.io 
 
-Rufen Sie die [Übung 1 im Moodle-Kurs](https://lms.bht-berlin.de/mod/lti/view.php?id=880549) auf. 
+Rufen Sie das Codeboard zur [Übung 1 im Moodle-Kurs](https://lms.bht-berlin.de/mod/lti/view.php?id=880549) auf. 
 
-Loggen Sie sich bitte mit ihrem Codeboard-Account ein, falls nötig.
+Falls Sie in Codeboard nicht eingeloggt sind, melden Sie sich bitte mit dem Codeboard-Account ein, den Sie in der [Übung 0](../bht_pr1_submission_00/README.md) angelegt haben.
 
 ## Aufgabe
 
