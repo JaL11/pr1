@@ -105,11 +105,13 @@ ___Abgabe der Lösungen___
 
 Jede Aufgabe hat eine Deadline bis zu der die Übung einregreicht werden muss. Dem Zeitplan (siehe oben) können sie alle Deadlines entnehemen. Die Modalitäten für die jeweiligen Übungen werden individuell bekannt gemacht.
 
+**Wenn Sie eine Übung nicht oder verspätetet einreichen, dann haben Sie diese Übung automatisch nicht bestanden**. Dabei spielt es keine Rolle, warum Sie die Übung nicht oder verspätet eingereicht haben (war krank, meine S-Bahn hat sich verspätet, musste einen hohen Lottogewinn persönlich abholen etc.). Das "Nachreichen" einer verpassten Übung ist nicht möglich. 
+
+Für jede Aufgabe erhalten Sie ein "bestanden" oder "nicht bestanden". 
+
 ___Präsentation___
 
 Ihre eingereichten Übungen werden automatisch und zusätzlich qualitativ von mir geprüft. Bei Bedarf werde ich stichprobenartig mit Ihnen einen Termin ansetzen, bei dem Sie mit Ihre Ergebnisse präsentieren. Zur Präsentation sollten sie persönlich in der Übungsstunde anwesend und bereit sein, Fragen zu der Aufgabe und der Lösung zu beantworten. 
-
-Für jede Aufgabe erhalten Sie ein "bestanden" oder "nicht bestanden". **Wenn Sie eine Übung nicht oder verspätetet einreichen, dann haben Sie diese Übung automatisch nicht bestanden**. Dabei spielt es keine Rolle, warum Sie die Übung nicht oder verspätet eingereicht haben (war krank, meine S-Bahn hat sich verspätet, musste einen hohen Lottogewinn persönlich abholen etc.). Das "Nachreichen" einer verpassten Übung ist nicht möglich. 
 
 ___Ziele___
 
