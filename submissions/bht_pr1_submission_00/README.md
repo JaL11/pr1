@@ -31,7 +31,7 @@ E-Mail: s12345@bht-berlin.de
 
 ## Beispiel Codeboard im Moodle aufrufen
 
-Ist ihre Registrierung erfolgt, rufen Sie die [Beispiel-Übung im Moodle-Kurs](https://lms.bht-berlin.de/mod/lti/view.php?id=880549) auf. 
+Ist ihre Registrierung erfolgt, rufen Sie die [Beispiel-Übung im Moodle-Kurs](https://lms.bht-berlin.de/mod/lti/view.php?id=880528) auf. 
 
 - Loggen Sie sich bitte mit ihrem Codeboard-Account ein:
 
