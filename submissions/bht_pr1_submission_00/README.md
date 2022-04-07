@@ -1,6 +1,8 @@
 # Übung 0 – Einrichten von Konten, Beispiel-Übung, grafische Programmierung
 
-## Bei codeboard.io ein Konto erstellen
+## Bei 
+
+ein Konto erstellen
 
 ![Codebboard Signup](https://codeboard.io/images/logo/codeboard_logo_beta_256.png)
 
@@ -29,7 +31,7 @@ E-Mail: s12345@bht-berlin.de
 
 ## Beispiel Codeboard im Moodle aufrufen
 
-Ist ihre Registrierung erfolgt, rufen Sie die [Beispiel-Übung im Moodle-Kurs](https://lms.bht-berlin.de/mod/lti/view.php?id=870015) auf. 
+Ist ihre Registrierung erfolgt, rufen Sie die [Beispiel-Übung im Moodle-Kurs](https://lms.bht-berlin.de/mod/lti/view.php?id=880549) auf. 
 
 - Loggen Sie sich bitte mit ihrem Codeboard-Account ein:
 
