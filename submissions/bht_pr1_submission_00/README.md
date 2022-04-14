@@ -1,8 +1,6 @@
 # Übung 0 – Einrichten von Konten, Beispiel-Übung, grafische Programmierung
 
-## Bei 
-
-ein Konto erstellen
+## Bei codeboard.io ein Konto erstellen
 
 ![Codebboard Signup](https://codeboard.io/images/logo/codeboard_logo_beta_256.png)
 
