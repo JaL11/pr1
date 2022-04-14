@@ -34,7 +34,7 @@ Ergänzen Sie das Programm um folgende Fragen und Antworten:
 
 
 - Die Ausgabe der Fragen wird nicht geprüft und dient Ihnen nur zur besseren Lesbarkeit der Ausgaben Ihres Codes.
-- Bitte lassen Sie die Ausgabe für `Frage 0` im Code stehen.
+- Bitte lassen Sie die Ausgabe für `Frage 0` und `Antwort 0` im Code stehen.
 - Die Antworten werden aber automatisiert geprüft. Bitte lassen Sie Ihr Programm genau eine Zeile pro Antwort in der Console ausgeben, genau in diesem Format:
 
 ```
