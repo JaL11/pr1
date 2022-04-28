@@ -9,7 +9,9 @@ Wir schreiben ein Programm, das als Unterhaltungsroboter funktioniert. Erst frag
 
 ```mermaid
 flowchart TD
-    A{Wie alt bist du?} -- 0 bis 15 --> B[Frag deine Eltern]
+    Z0[Wie heißt du?] --> Z1[Hallo, _NAME_!] --> A{Wie alt bist du, _NAME_?}
+
+    A -- 0 bis 15 --> B[Frag deine Eltern]
     A -- 16 bis 25 --> C{Liebst du Aufregung?}
     A -- 26 bis 40 --> D{Liebst du die Natur?}
     A -- 41 und höher --> E[Spreche bitte mit deinem Arzt]
@@ -33,41 +35,45 @@ flowchart TD
     style J fill:#ffcc01    
     style K fill:#ffcc01        
     style L fill:#ffcc01  
-    style M fill:#ffcc01      
+    style M fill:#ffcc01    
 ```
+
+Wobei `_NAME_` für den Namen steht, den der Benutzer eingegeben hat.
 
 ## codeboard.io 
 
-Rufen Sie das Codeboard zur [Übung 1 im Moodle-Kurs](TODO) auf. 
+Rufen Sie das Codeboard zur [Übung 2 im Moodle-Kurs](https://lms.bht-berlin.de/mod/url/view.php?id=896618) auf. 
 
 Falls Sie in Codeboard nicht eingeloggt sind, melden Sie sich bitte mit dem Codeboard-Account ein, den Sie in der [Übung 0](../bht_pr1_submission_00/README.md) angelegt haben.
 
 ## Aufgabe
 
-Es existiert eine Datei `Main.java`. In dieser kein Code enthalten. In dieser Date implementieren Sie ihre Lösung.
+Es existiert eine Datei `Main.java`. In dieser kein Code enthalten. In dieser Date implementieren Sie ihre Lösung. Beachten Sie folgende Hinweise:
 
 * Benutzen Sie geschachteltes `if`/`else`  um den Ablauf der Entscheidungen zu steuern.
-* Benutzen Sie `System.out.println()` um Fragen zu stellen und den Rat des Roboters in der Konsole auszugeben.
+* Benutzen Sie `System.out.println()` um Fragen zu stellen und den finalen Rat des Roboters in der Konsole auszugeben.
 * Benutzen Sie `Scanner` um Eingaben vom Benutzer zu verarbeiten.
-* Benutzen Sie `String.equals()` um auf die Antworten zu reagieren.
+* Benutzen Sie `String.equals()` um auf die Eingaben/Antworten des Benutzers zu reagieren.
 
 ### Code Konventionsn / Stil
 
 * Beachten Sie die Einrückung (_indentation_) des Codes
 * Schreiben Sie genug Kommentare, damit Sie oder jemand anderes ihr Programm besser verstehen kann.
-* Vergeben sie sinnvolle Variablennamen, die zum Verständnis des Programms beitragen.
-* Kein Hard-Coding
+* Vergeben sie sinnvolle Variablen-Namen, die zum Verständnis des Programms beitragen.
+* "Hard-Coden" Sie keine Lösungen.
 * Räumen Sie den `Scanner` ordentlich auf.
 
 ## Hinweis für die Auto-Bewertung
 
-* Alle Eingaben des Benutzers müssen so verarbeitet werden wie im Diagramm. Beispielsweise muss die Antwort "ja" oder "nein" exakt in dieser Schreibweise (Kleinbuchstaben) erwartet werden.
-* Die finale/letzte Ausgabe in der Konsole muss exakt dem Text eines der gelben Kästen entsprehen.
-* Wenn Sie `Test` in codeboard bestätigen, werden 3 Testfälle gerüft. Sie sollten Ihren Code gründlich für verschiedene Randfälle für die Eingaben des Benutzers prüfen, weil beim Submit weitere, gründlichere Tests exitieren, die Sie nicht sehen können.
+* Alle Eingaben des Benutzers müssen so verarbeitet werden wie im Diagramm. Beispielsweise muss 
+  * die Antwort "ja" oder "nein" exakt in dieser Schreibweise (Kleinbuchstaben) erwartet werden.
+  * Der Satz "Macht du gerne Sport in einer Gruppe?" nicht abgeändert werden.
+* Die finale/letzte Ausgabe in der Konsole muss exakt dem Text eines der gelben Kästen entsprechen.
+* Wenn Sie den Schalter `Test` in codeboard bestätigen, werden 3 Testfälle gerüft. Sie sollten Ihren Code aber gründlich für verschiedene Randfälle von Eingaben des Benutzers prüfen, weil beim `Submit` weitere, gründlichere Tests exitieren, die Sie nicht sehen können.
 
 Beine Beispiel Ausgabe ihres Programms könnte sein:
 ```
-Wie heisst du?
+Wie heißt du?
 Anna
 Hallo, Anna!
 Wie alt bist du, Anna?
