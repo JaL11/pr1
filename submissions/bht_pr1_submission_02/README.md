@@ -5,7 +5,9 @@
 
 ## Einleitung
 
-Wir schreiben ein Programm, das als Unterhaltungsroboter funktioniert. Erst fragt der Roboter (d.h. unser Programm), wie der Ratsuchende (d.h. der menschliche Benutzer) heißt. Der Roboter grüßt den Ratsuchenden mit einem "Hallo" und mit dem Namen des Ratsuchendes. Dann stellt der Roboter Fragen und gibt Rat nach diesen Regeln:
+Schreiben Sie ein Programm, welcher ein Unterhaltungsroboter ist, der Ratschläge für Sport erteilt. Zunächst fragt der Roboter (d.h. unser Programm), wie der Ratsuchende (d.h. der menschliche Benutzer) heißt. Der Roboter grüßt den Ratsuchenden mit einem "Hallo" und mit dem Namen des Ratsuchendes. Dann stellt der Roboter verschiedene Fragen und gibt im Abschluss dem Ratsuchenden einen Rat
+
+Das Programm läuft nach folgenden Regeln, die als Ablaufdiagramm dargestellt sind:
 
 ```mermaid
 flowchart TD
