@@ -50,9 +50,9 @@ Falls Sie in Codeboard nicht eingeloggt sind, melden Sie sich bitte mit dem Code
 
 ## Aufgabe
 
-Es existiert eine Datei `Main.java`. In dieser kein Code enthalten. In dieser Date implementieren Sie ihre Lösung. Beachten Sie folgende Hinweise:
+Es existiert eine Datei `Main.java`. In dieser ist Code enthalten, der einen `Scanner` erzeugt und wieder aufräumt. In dieser Date implementieren Sie ihre Lösung. Beachten Sie folgende Hinweise:
 
-* Benutzen Sie geschachteltes `if`/`else`  um den Ablauf der Entscheidungen zu steuern.
+* Benutzen Sie geschachtelte `if`/`else` um den Ablauf der Entscheidungen zu steuern.
 * Benutzen Sie `System.out.println()` um Fragen zu stellen und den finalen Rat des Roboters in der Konsole auszugeben.
 * Benutzen Sie `Scanner` um Eingaben vom Benutzer zu verarbeiten.
 * Benutzen Sie `String.equals()` um auf die Eingaben/Antworten des Benutzers zu reagieren.
@@ -63,15 +63,15 @@ Es existiert eine Datei `Main.java`. In dieser kein Code enthalten. In dieser Da
 * Schreiben Sie genug Kommentare, damit Sie oder jemand anderes ihr Programm besser verstehen kann.
 * Vergeben sie sinnvolle Variablen-Namen, die zum Verständnis des Programms beitragen.
 * "Hard-Coden" Sie keine Lösungen.
-* Räumen Sie den `Scanner` ordentlich auf.
+* Räumen Sie den `Scanner` ordentlich auf (das ist in dem Code, was ich für Sie erstellt habe, bereits gemacht).
 
 ## Hinweis für die Auto-Bewertung
 
-* Alle Eingaben des Benutzers müssen so verarbeitet werden wie im Diagramm. Beispielsweise muss die Antwort "ja" oder "nein" exakt in dieser Schreibweise (Kleinbuchstaben) erwartet werden.
+* Alle Eingaben des Benutzers müssen so verarbeitet werden wie im Diagramm (siebe weiter oben). Beispielsweise muss die Antwort "ja" oder "nein" exakt in dieser Schreibweise (Kleinbuchstaben) erwartet werden.
 * Die finale/letzte Ausgabe in der Konsole muss exakt dem Text eines der gelben Kästen entsprechen.
-* Wenn Sie den Schalter `Test` in codeboard bestätigen, werden 3 Testfälle gerüft. Sie sollten Ihren Code aber gründlich für verschiedene Randfälle von Eingaben des Benutzers prüfen, weil beim `Submit` weitere, gründlichere Tests exitieren, die Sie nicht sehen können.
+* Wenn Sie den Schalter `Test` in codeboard betätigen, werden 3 Testfälle gerüft. Sie sollten Ihren Code aber gründlich für verschiedene Randfälle von Eingaben des Benutzers prüfen, weil beim `Submit` weitere, gründlichere Tests exitieren, die Sie nicht sehen können (über 15 weitere Tests).
 
-Beine Beispiel Ausgabe ihres Programms könnte sein:
+Eine Beispiel Ausgabe ihres Programms könnte so aussehen:
 ```
 Wie heißt du?
 Anna
