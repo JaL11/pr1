@@ -120,7 +120,7 @@ Sie müssen 10 von 12 Übungsaufgaben bestehen, damit Sie zur Klausur zugelassen
 ___Regeln der Fairness und Respekts___
 
 - Sie geben nur eigene Lösungen ab, welche Sie selbst verfasst und verstanden haben.
-- Ich prüfen das (zum Teil automatisiert) nach und behalte mir insbesondere in den Präsentationen der Übungen vor zu prüfen, dass sie selbständig die Aufgaben bearbeitet haben.
+- Ich prüfe das (zum Teil automatisiert) nach und behalte mir insbesondere in den Präsentationen der Übungen vor zu prüfen, dass sie selbständig die Aufgaben bearbeitet haben.
 - Es gilt primär die Unschuldsvermutung. Ich möchte lediglich wissen, ob Sie verstanden haben, was Sie abgegeben haben.
 
 Zudem gelten die [Verhaltenskodex der Gemeinschaft (Code of Conduct)](CODE_OF_CONDUCT.md), die Sie bitte aufmerksam lesen.
@@ -137,7 +137,7 @@ Zu diesen Klausuren dürfen Sie keine Unterlagen mitbringen. In einer Klausur k�
 |__Note:__       | 1,0| 1,3| 1,7| 2,0| 2,3| 2,7| 3,0| 3,3| 3,7| 4,0| 5,0  |
 
 
-___Anmerkung:___ Ich empfehle die ___Hauptklausur___ mitzuschreiben. Erfahrungsgemäß ist es sehr schwer, bei der Nachklausur "besser zu sein" als bei der Hauptklausur (in den Se- mesterferien passiert es leicht, dass man weniger zum Lernen kommt als man geplant hat. Außerdem fehlen die "anregenden Anstöße" durch andere Studierende, die SUs und die Üs).
+___Anmerkung:___ Ich empfehle die ___Hauptklausur___ mitzuschreiben. Erfahrungsgemäß ist es sehr schwer, bei der Nachklausur "besser zu sein" als bei der Hauptklausur (in den Semesterferien passiert es leicht, dass man weniger zum Lernen kommt als man geplant hat. Außerdem fehlen die "anregenden Anstöße" durch andere Studierende, die SUs und die Üs).
 
 Prüfungsstoff für die Klausur schließt ein:
 - SU-Inhalte 
