@@ -11,7 +11,7 @@ Das Programm läuft nach folgenden Regeln, die als Ablaufdiagramm dargestellt si
 
 ```mermaid
 flowchart TD
-    Z0[Wie heißt du?] --> Z1[Hallo, _NAME_!] --> A{Wie alt bist du, _NAME_?}
+    Z0[Wie heisst du?] --> Z1[Hallo, _NAME_!] --> A{Wie alt bist du, _NAME_?}
 
     A -- 0 bis 15 --> B[Frag deine Eltern]
     A -- 16 bis 25 --> C{Liebst du Aufregung?}
@@ -67,9 +67,7 @@ Es existiert eine Datei `Main.java`. In dieser kein Code enthalten. In dieser Da
 
 ## Hinweis für die Auto-Bewertung
 
-* Alle Eingaben des Benutzers müssen so verarbeitet werden wie im Diagramm. Beispielsweise muss 
-  * die Antwort "ja" oder "nein" exakt in dieser Schreibweise (Kleinbuchstaben) erwartet werden.
-  * Der Satz "Macht du gerne Sport in einer Gruppe?" nicht abgeändert werden.
+* Alle Eingaben des Benutzers müssen so verarbeitet werden wie im Diagramm. Beispielsweise muss die Antwort "ja" oder "nein" exakt in dieser Schreibweise (Kleinbuchstaben) erwartet werden.
 * Die finale/letzte Ausgabe in der Konsole muss exakt dem Text eines der gelben Kästen entsprechen.
 * Wenn Sie den Schalter `Test` in codeboard bestätigen, werden 3 Testfälle gerüft. Sie sollten Ihren Code aber gründlich für verschiedene Randfälle von Eingaben des Benutzers prüfen, weil beim `Submit` weitere, gründlichere Tests exitieren, die Sie nicht sehen können.
 
