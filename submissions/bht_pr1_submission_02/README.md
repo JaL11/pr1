@@ -9,7 +9,31 @@ Wir schreiben ein Programm, das als Unterhaltungsroboter funktioniert. Erst frag
 
 ```mermaid
 flowchart TD
-    Alter? -- 0 bis 15 --> Frag deine Eltern
+    A{Wie alt bist du?} -- 0 bis 15 --> B[Frag deine Eltern]
+    A -- 16 bis 25 --> C{Liebst du Aufregung?}
+    A -- 26 bis 40 --> D{Liebst du die Natur?}
+    A -- 41 und höher --> E[Spreche bitte mit deinem Arzt]
+    
+    C -- ja --> F{Macht du gerne Sport in einer Gruppe?}
+    C -- nein --> G{Hast du viel Zeit?}
+    
+    D -- ja --> H[Wandern]
+    D -- nein --> I[Yoga]
+    
+    F -- ja --> J[Handball]
+    F -- nein --> K[Fallschirmspringen]
+
+    G -- ja --> L[Golf]
+    G -- nein --> M[Joggen]
+    
+    style B fill:#ffcc01
+    style E fill:#ffcc01
+    style H fill:#ffcc01
+    style I fill:#ffcc01
+    style J fill:#ffcc01    
+    style K fill:#ffcc01        
+    style L fill:#ffcc01  
+    style M fill:#ffcc01      
 ```
 
 ## codeboard.io 
