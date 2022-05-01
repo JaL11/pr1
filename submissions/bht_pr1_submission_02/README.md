@@ -56,8 +56,33 @@ Es existiert eine Datei `Main.java`. In dieser ist Code enthalten, der einen `Sc
 * Benutzen Sie `System.out.println()` um Fragen zu stellen und den finalen Rat des Roboters in der Konsole auszugeben.
 * Benutzen Sie `Scanner` um Eingaben vom Benutzer zu verarbeiten.
 * Benutzen Sie `String.equals()` um auf die Eingaben/Antworten des Benutzers zu reagieren.
+---
 
-### Code Konventionsn / Stil
+***ACHTUNG:***
+
+Wenn Sie als Eingabe die Zahl 32 eingeben und Enter drücken, sieht die resultierende Zeichenkette so aus:
+
+`32\n` 
+
+, wobei `\n` ein Zeilenumbruch ist.
+
+Wenn Sie nun `scanner.nextInt()` verwenden um die Zahl einzulesen, liest Java nur die Zahl (im Beispiel oben die `32`) ein, aber nicht den Zeilenumbruch (also `\n`). 
+
+Daher muss hinter jedem `scanner.nextInt()` oder `scanner.nextDouble()` usw. ein `scanner.nextLine( ` aufgerufen werden, so dass nicht nur die Zahl, sondern auch der Zeilenumbruch gelesen wird.
+
+Also folgendermaßen:
+
+```java
+[...]
+int age = scanner.nextInt();
+scanner.nextLine();
+[...]
+```
+
+---
+
+
+### Code Konvention / Stil
 
 * Beachten Sie die Einrückung (_indentation_) des Codes
 * Schreiben Sie genug Kommentare, damit Sie oder jemand anderes ihr Programm besser verstehen kann.
