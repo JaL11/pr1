@@ -18,7 +18,7 @@ flowchart TD
     A -- 26 bis 40 --> D{Liebst du die Natur?}
     A -- 41 und höher --> E[Spreche bitte mit deinem Arzt]
     
-    C -- ja --> F{Macht du gerne Sport in einer Gruppe?}
+    C -- ja --> F{Machst du gerne Sport in einer Gruppe?}
     C -- nein --> G{Hast du viel Zeit?}
     
     D -- ja --> H[Wandern]
