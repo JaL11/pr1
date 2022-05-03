@@ -93,7 +93,7 @@ scanner.nextLine();
 ## Hinweis für die Auto-Bewertung
 
 * Alle Eingaben des Benutzers müssen so verarbeitet werden wie im Diagramm (siebe weiter oben). Beispielsweise muss die Antwort "ja" oder "nein" exakt in dieser Schreibweise (Kleinbuchstaben) erwartet werden.
-* Die finale/letzte Ausgabe in der Konsole muss exakt dem Text eines der gelben Kästen entsprechen.
+* Die Ausgaben in der Konsole muss exakt dem Text eines der gelben Kästen entsprechen.
 * Wenn Sie den Schalter `Test` in codeboard betätigen, werden 3 Testfälle gerüft. Sie sollten Ihren Code aber gründlich für verschiedene Randfälle von Eingaben des Benutzers prüfen, weil beim `Submit` weitere, gründlichere Tests exitieren, die Sie nicht sehen können (über 15 weitere Tests).
 
 Eine Beispiel Ausgabe ihres Programms könnte so aussehen:
