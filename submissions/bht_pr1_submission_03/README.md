@@ -46,7 +46,7 @@ Welche Note (z.B. 10)?
 Falsche Eingabe
 ```
 
-Wir wollen noch ein Easter-Egg1 (Ein Easter-Egg in einem Computer-Spiel ist eine lustige Überraschung, die auftaucht, nur wenn der Spieler eine bestimmte aber geheime Eingabe macht.) einbauen! Wenn der Benutzer mit 42 als Note antwortet, sagt der Roboter `Don’t panic!` (siehe siehe https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#D on’t_Panic), bevor er weiter “Falsche Eingabe” sagt, z.B.:
+Wir wollen noch ein Easter-Egg1 (Ein Easter-Egg in einem Computer-Spiel ist eine lustige Überraschung, die auftaucht, nur wenn der Spieler eine bestimmte aber geheime Eingabe macht.) einbauen! Wenn der Benutzer mit 42 als Note antwortet, sagt der Roboter `Don’t panic!` (siehe siehe https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic), bevor er weiter “Falsche Eingabe” sagt, z.B.:
 
 ```
 Welches Notensystem?
