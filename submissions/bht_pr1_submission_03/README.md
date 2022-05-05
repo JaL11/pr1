@@ -46,7 +46,7 @@ Welche Note (z.B. 10)?
 Falsche Eingabe
 ```
 
-Wir wollen noch ein Easter-Egg1 (Ein Easter-Egg in einem Computer-Spiel ist eine lustige Überraschung, die auftaucht, nur wenn der Spieler eine bestimmte aber geheime Eingabe macht.) einbauen! Wenn der Benutzer mit 42 als Note antwortet, sagt der Roboter `Don’t panic!` (siehe siehe https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic), bevor er weiter “Falsche Eingabe” sagt, z.B.:
+Wir wollen noch ein Easter-Egg1 (Ein Easter-Egg in einem Computer-Spiel ist eine lustige Überraschung, die auftaucht, nur wenn der Spieler eine bestimmte aber geheime Eingabe macht.) einbauen! Wenn der Benutzer mit 42 als Note antwortet, sagt der Roboter `Don’t panic!` (siehe siehe https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic), bevor es weiter `Falsche Eingabe` ausgibt, z.B.:
 
 ```
 Welches Notensystem?
@@ -59,7 +59,7 @@ Falsche Eingabe
 
 ## codeboard.io 
 
-Rufen Sie das Codeboard zur [Übung 3 im Moodle-Kurs](https://lms.bht-berlin.de/mod/lti/view.php?id=898728) auf. 
+Rufen Sie das Codeboard zur [Übung 3 im Moodle-Kurs](https://lms.bht-blin.de/mod/lti/view.php?id=898728) auf. 
 
 Falls Sie in Codeboard nicht eingeloggt sind, melden Sie sich bitte mit dem Codeboard-Account ein, den Sie in der [Übung 0](../bht_pr1_submission_00/README.md) angelegt haben.
 
@@ -86,7 +86,7 @@ Es existiert eine Datei `Main.java`. Beachten Sie folgende Hinweise:
 
 * Alle Eingaben des Benutzers müssen so verarbeitet werden wie in der Tabelle (siebe weiter oben). Beispielsweise muss das Wort `Gymnasium` mit einem großen `G`, statt `gymnasium` mit einem kleinen `g` erwartet werden.
 
-* Die Ausgaben in der Konsole müssen exakt dem Text in den Beispielen entsprechen.
+* Die Ausgaben in der Konsole müssen exakt dem Text in den Beispielen entsprechen (Beispiel `Welche Note (z.B. 10)?`).
 
 * Wenn Sie den Schalter `Test` in codeboard betätigen, werden einige wenige Testfälle gerüft. Sie sollten Ihren Code aber gründlich für verschiedene Randfälle von Eingaben des Benutzers prüfen, weil beim `Submit` weitere, gründlichere Tests exitieren, die Sie nicht sehen können (über 15 weitere Tests).
 
