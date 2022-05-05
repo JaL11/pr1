@@ -88,7 +88,7 @@ Es existiert eine Datei `Main.java`. Beachten Sie folgende Hinweise:
 
 * Die Ausgaben in der Konsole müssen exakt dem Text in den Beispielen entsprechen (Beispiel `Welche Note (z.B. 10)?`).
 
-* Wenn Sie den Schalter `Test` in codeboard betätigen, werden einige wenige Testfälle gerüft. Sie sollten Ihren Code aber gründlich für verschiedene Randfälle von Eingaben des Benutzers prüfen, weil beim `Submit` weitere, gründlichere Tests exitieren, die Sie nicht sehen können (über 15 weitere Tests).
+* Wenn Sie den Schalter `Test` in codeboard betätigen, werden einige wenige Testfälle gerüft. Sie sollten Ihren Code aber gründlich für verschiedene Randfälle von Eingaben des Benutzers prüfen, weil beim `Submit` weitere, gründlichere Tests exitieren, die Sie nicht sehen können.
 
 ---
 
