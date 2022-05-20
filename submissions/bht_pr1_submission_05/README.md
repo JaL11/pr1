@@ -45,7 +45,8 @@ Beachten Sie, dass alle Zeichen (Plus, Minus, Leerzeichen, Zahlen) exakt so ausg
 Ermitteln Sie, ob das gegebene Sudoku korrekt gelöst ist. 
 
 ***Lösungsweg*** 
-Die Summe Ziffern 
+
+Die Summe der Ziffern 
 * in einer Reihe, 
 * Spalte 
 * oder Block 
@@ -105,9 +106,9 @@ All rows are correct
 ```
 * Sollte eine Reihe falsch gelöst sein, soll ihr Programm folgende Ausgabe tätigen (Beispiel):
 ```
-Sum of row 1 is wrong. Sum is: 46
+Sum of row 2 is wrong. Sum is: 46
 ```
-Dabei steht `1` für den Index der Reihe im Sudoku (angefangen bei `0`).
+Dabei steht `2` für den Index der Reihe im Sudoku (angefangen bei `0`).
 
 ***Spalten***
 
@@ -117,9 +118,9 @@ All columns are correct
 ```
 * Sollte eine Spalte falsch gelöst sein, soll ihr Programm folgende Ausgabe tätigen (Beispiel):
 ```
-Sum of column 3 is wrong. Sum is: 46
+Sum of column 0 is wrong. Sum is: 46
 ```
-Dabei steht `3` für den Index der Spalte im Sudoku (angefangen bei `0`).
+Dabei steht `0` für den Index der Spalte im Sudoku (angefangen bei `0`).
 
 ***3x3-Blöcke***
 
