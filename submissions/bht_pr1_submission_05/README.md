@@ -16,8 +16,6 @@ Z.B. ist die Aufstellung unten richtig:
 
 ![Bild einer Sudoku-Lösung](sudoku.png)
 
-Schreiben Sie ein Programm, das prüft, ob eine bestimmte Aufstellung der Ziffern ein richtiger Versuch ist.
-
 ### Sudoku auf der Konsole ausgeben "printSudoku"
 
 In der ersten Teilaufgabe geben Sie die Sudoku-Lösung in der Console aus. Verwenden Sie dazu wie üblich `System.out.println` und `System.out.print`. 
