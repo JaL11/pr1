@@ -5,7 +5,7 @@
 
 ## Einleitung
 
-Schreiben Sie ein Programm, welches einen Umschlag mit Absender un Empfänger auf der Konsole ausgibt. Ein Beispiel-Ergebnis sieh folgermaßen aus:
+Schreiben Sie ein Programm, welches einen Umschlag mit Absender un Empfänger auf der Konsole ausgibt. Ein Beispiel-Ergebnis sieht folgermaßen aus:
 
 ```
 +----------------------------------------------------------+
@@ -44,7 +44,7 @@ printEnvelope(
 );
 ```
 
-ergibt folgendem Briefumschlag:
+ergibt folgenden Briefumschlag:
 
 ```
 O@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@O
@@ -60,7 +60,7 @@ O@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@O
 O@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@O
 ```
 
-Ein besonderer Augenmerk wird auf den Innenabstand (`padding`) gelegt. Für den Absender (links-oben auf dem Briefumschlag) ist dies der linke Abstand zum Rand. Für den Empfänger (rechts-unten auf dem Briefumschlag) ist dies aber der ***rechte*** Abstand. Im folgenden Beispiel sind die Abstände durch Punkte (`.`) visualisiert:
+Ein besonderer Augenmerk wird auf den Innenabstand (`padding`) gelegt. Für den Absender (links-oben auf dem Briefumschlag) ist dies der linke Abstand zum Rand. Für den Empfänger (rechts-unten auf dem Briefumschlag) ist dies aber der ***rechte*** Abstand. Dabei bleiben die drei Zeilen des Empfängers linksbündig. Im folgenden Beispiel sind die Abstände durch Punkte (`.`) visualisiert:
 
 ```
 +----------------------------------------------------------+
@@ -103,7 +103,7 @@ ergibt
 +----------------------------------------------------------+
 ```
 
-, wobei die Punkte nur zu Anschauungszwecken gezeichnet sind.
+wobei die Punkte nur zu Anschauungszwecken gezeichnet sind.
 
 ## codeboard.io 
 
@@ -147,6 +147,7 @@ public static void printEnvelope(String fromName, String fromAddress, String fro
 - Versuchen Sie bei Ihrer Implementation kein Hard-Coding zu machen. Zum Beispiel sollten die oben genannten Variablen (z.B. `spaceChar`) benutzt werden. 
 - Auch sollte die Breite des Briefumschlags, sowie der Innenabstand variabel/dynamisch änderbar sein. Dazu sollten Sie die Variablen `width` und `padding`
 - Die Länge eines Strings erhalten Sie mit `myVariableName.length()`
+- Verändern Sie die Variablen in der `Main.java`, um die verschiedenen Auswirkungen zu testen.
 
 ---
 
@@ -160,7 +161,8 @@ public static void printEnvelope(String fromName, String fromAddress, String fro
 
 ## Hinweis für die Auto-Bewertung
 
-* Wenn Sie den Schalter `Test` in codeboard betätigen, werden einige wenige Testfälle gerüft. Sie sollten Ihren Code aber gründlich für verschiedene Randfälle von Eingaben des Benutzers prüfen, weil beim `Submit` weitere, gründlichere Tests exitieren, die Sie nicht sehen können.
+* Wenn Sie den Schalter `Test` in codeboard betätigen, werden einige wenige Testfälle gerüft. 
+* Sie sollten Ihren Code aber gründlich für verschiedene Randfälle von Eingaben des Benutzers prüfen. In dieser Übung gibt es keine weiteren Extra-Tests, die bei `Submit` ausgeführt werden. Sie können also alle Tests sehen, mit denen Sie 100% der Punkte erreichen können.
 
 ---
 
