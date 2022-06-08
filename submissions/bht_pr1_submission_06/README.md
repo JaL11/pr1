@@ -107,7 +107,7 @@ wobei die Punkte nur zu Anschauungszwecken gezeichnet sind.
 
 ## codeboard.io 
 
-Rufen Sie das Codeboard zur [Übung 5 im Moodle-Kurs](https://lms.bht-berlin.de/mod/lti/view.php?id=910330 ) auf. 
+Rufen Sie das Codeboard zur [Übung 6 im Moodle-Kurs](https://lms.bht-berlin.de/mod/lti/view.php?id=910330 ) auf. 
 
 Falls Sie in Codeboard nicht eingeloggt sind, melden Sie sich bitte mit dem Codeboard-Account ein, den Sie in der [Übung 0](../bht_pr1_submission_00/README.md) angelegt haben.
 
