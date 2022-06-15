@@ -66,8 +66,12 @@ Das codeboard-projekt enthält bereits drei Klassen:
 ### Student
 
 * Die `Student` Klasse muss von Ihnen implementiert werden. 
-* Es existiert bereits ein Konstruktor mit allen Parametern, die in Klassen-Attribute gespeichert werden müssen
-* Schreiben Sie auch für jedes Attribut einen Getter
+  * Es existiert bereits ein Konstruktor mit allen Parametern, die in Klassen-Attribute gespeichert werden müssen
+  * Schreiben Sie auch für jedes Attribut einen Getter
+  * Schreiben Sie eine `toString()` Methode, die folgende Ausgabe erstellt (Beispielhaft)
+  ```
+  John Doe (2323232), Medieninformatik
+  ```
 
 ### Envelope
 
