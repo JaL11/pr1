@@ -132,7 +132,7 @@ Ich empfehle Ihnen in der `main` Methode der `Main` Klasse ihre Klassen aufzuruf
 
 ***In dieser Übung speziell***
 
-* Achten Sie auf die korrekte Schreibweise von Klassen und Attributen wie in diesem Text vorgegeben. Attribute werden mit Kleinbuchstaben anfangen und verwenden die[Camel-Case-Schreibweise](https://kulturbanause.de/faq/camelcase/).
+* Achten Sie auf die korrekte Schreibweise von Klassen und Attributen wie in diesem Text vorgegeben. Attribute werden mit Kleinbuchstaben anfangen und verwenden die [Camel-Case-Schreibweise](https://kulturbanause.de/faq/camelcase/).
 * `toString()` Methoden werden in dieser Übung nicht überprüft, sind aber sehr hilfreich für das debuggen mit der Konsole.
 
 ***Generell***
