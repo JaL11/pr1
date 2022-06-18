@@ -94,14 +94,13 @@ Erstellen Sie im Paket `student` eine Enumeration für Studiengänge mit dem Nam
 ## Klasse `Student`
 
 * Kopieren Sie zudem Ihre `Student`-Klasse aus der letzten Übung und fügen Sie sie in das Paket `student` ein. Sie müssen in der ersten Zeile das Paket der Klasse deklarieren.
-* Ersetzen Sie den Datentypen des Attributs `course` (Aktuell vom Typ `String`) und nutzen Sie ihre `StudyCourse` Enumeration.
+* Ersetzen Sie den Datentypen des Attributs `course` (Aktuell vom Typ `String`) und nutzen Sie ihre neue `StudyCourse` Enumeration als Datentyp.
 * Das Attribut benennen Sie von `course` in `studyCourse` um. Denken Sie daran alle Konstruktor, Setter und Getter auch anzupassen (Datentyp und Benennnung).
 * Fügen Sie der Klasse `Student` ein neues Attribut `age` vom Typ `int` hinzu.
 
 ### Konstruktoren
 
 * Schreiben sie drei Konstruktoren für die `Student` Klasse:
-** 
 
 | Konstruktor | Parameter | Verhalten |
 |-------------|-----------|-----------|
@@ -113,7 +112,7 @@ Erstellen Sie im Paket `student` eine Enumeration für Studiengänge mit dem Nam
 
 Schreiben Sie für alle Attribute der `Student` Klasse Getter und Setter.
 
-### Erweitern der `Student` Klasse zum das Belegen von Fächern (`Course`) zu ermöglichen
+### Erweitern der `Student` Klasse um das Belegen von Fächern (`Course`) zu ermöglichen
 
 * Erweitern Sie die `Student` Klasse einem neuen Attribut `Course[] bookedCourses`, welches die gebuchten Kurse eines Studenten pflegt. Die länge des Arrays soll `5` sein.
 * Im Konstruktor 3 (Haupt-Konstruktor) füllen Sie bitte alle Felder des `bookedCourses`-Arrays mit dem Wert `null`.
