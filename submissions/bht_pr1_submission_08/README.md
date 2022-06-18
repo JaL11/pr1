@@ -67,7 +67,7 @@ Falls Sie in Codeboard nicht eingeloggt sind, melden Sie sich bitte mit dem Code
 Error: Could not find or load main class student.Main
 ```
 
-* Erstellen Sie ein neues Paket (Ordner) mit den Namen `student`, indem Sie im Codeboard-Menü auf "Project -> Add Folder" gehen. Alle Klassen außer der `Main.java` sollten in diesem Paket getan und in der ersten Zeile `package student;` enhalten.
+* Erstellen Sie ein neues Paket (Ordner) mit den Namen `student`, indem Sie im Codeboard-Menü auf "Project -> Add Folder" gehen. Alle Klassen die sie in dieser Übung erstellen sollten in diesem Paket liegen und in der ersten Zeile `package student;` enhalten.
 * Die `Main.java`, die die Main-Methode enthält, müssen Sie selber anlegen. 
 
 ## Enumeration `StudyCourse`
