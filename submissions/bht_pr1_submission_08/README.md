@@ -10,7 +10,7 @@ Sie haben in der letzten Übung die `Student`-Klasse geschrieben. In dieser Übu
 
 ## codeboard.io 
 
-Rufen Sie das Codeboard zur [Übung 7 im Moodle-Kurs](https://lms.bht-berlin.de/mod/lti/view.php?id=910330 ) auf. 
+Rufen Sie das Codeboard zur [Übung 8 im Moodle-Kurs](https://lms.bht-berlin.de/mod/url/view.php?id=912995) auf. 
 
 Falls Sie in Codeboard nicht eingeloggt sind, melden Sie sich bitte mit dem Codeboard-Account ein, den Sie in der [Übung 0](../bht_pr1_submission_00/README.md) angelegt haben.
 
