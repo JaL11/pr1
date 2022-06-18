@@ -5,7 +5,52 @@
 
 ## Einleitung
 
-Sie haben in der letzten Übung die `Student`-Klasse geschrieben. In dieser Übung ergänzen und verbessern Sie die Klasse mit weiteren Programmierungstechniken. 
+Sie haben in der letzten Übung die `Student`-Klasse geschrieben. In dieser Übung ergänzen und verbessern Sie die Klasse mit weiteren Programmierungstechniken, und fügen weitere Klassen hinzu.
+
+
+```mermaid
+classDiagram
+
+class Student {
+    <<class>>
+    -String prename
+    -String surname
+    -String street
+    -String houseNumber
+    -String zipCode
+    -String city
+    -String registrationNumber
+    -StudyCourse studyCourse
+    -int age
+    +Student(String prename, String surname, String street, String houseNumber, String     zipCode, String city, String registrationNumber)
+    +Student(String prename, String surname, String street, String houseNumber, String     zipCode, String city, String registrationNumber, int age)
+    +Student(String prename, String surname, String street, String houseNumber, String     zipCode, String city, String registrationNumber, StudyCourse studyCourse, int age)
+    + ... Getters ... Setters ...()
+    +Course[] getBookedCourses()
+    +int getBookedCoursesCount()
+}
+
+class StudyCourse {
+    <<enumeration>>
+    MEDIENINFORMATIK
+    MEDIENINFORMATIK_ONLINE
+    TECHNISCHE_INFORMATIK
+    DRUCK_UND_MEDIENTECHNIK
+    SCREEN_BASED_MEDIA
+}
+
+class Course {
+    <<class>>
+    -String name;
+    -String teacher;
+    
+    +Course(String name, String teacher)
+    + ... Getters ... Setters ...()    
+}
+
+Student "1" --> "0..5" Course: bookedCourses
+
+```
 
 
 ## codeboard.io 
