@@ -131,11 +131,14 @@ Ich empfehle Ihnen in der `main` Methode der `Main` Klasse ihre Klassen aufzuruf
 ### Code Konvention / Stil
 
 ***In dieser Übung speziell***
+
+* Achten Sie auf die korrekte Schreibweise von Klassen und Attributen wie in diesem Text vorgegeben. Attribute werden mit Kleinbuchstaben anfangen und verwenden die[Camel-Case-Schreibweise](https://kulturbanause.de/faq/camelcase/).
+* `toString()` Methoden werden in dieser Übung nicht überprüft, sind aber sehr hilfreich für das debuggen mit der Konsole.
+
+***Generell***
 * Verwenden Sie kein `static` bei Methoden oder Attributen, wenn es nicht notwendig ist.
 * Halten Sie möglichst alle Attribute `private`, bis Sie einen Grund haben es `public` zu machen. 
 * Getter für private Attribute sind besser, als ein Attribut public zu machen.
-
-***Generell***
 * Beachten Sie die Einrückung (_indentation_) des Codes
 * Schreiben Sie genug Kommentare, damit Sie oder jemand anderes ihr Programm besser verstehen kann.
 * Vergeben sie sinnvolle Variablen-Namen, die zum Verständnis des Programms beitragen.
