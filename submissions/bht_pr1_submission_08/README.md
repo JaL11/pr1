@@ -61,13 +61,13 @@ Falls Sie in Codeboard nicht eingeloggt sind, melden Sie sich bitte mit dem Code
 
 ## Aufgabe
 
-* Das codeboard-projekt enthält diesmal keine Klasse.
-* Erstellen Sie ein Paker (Ordner) mit den Namen `student`. Alle Klassen außer der `Main.java` sollten in diesem Paket getan werden.
+* Das codeboard-projekt enthält diesmal ***keine*** vorbereitete Klasse.
+* Erstellen Sie ein neues Paket (Ordner) mit den Namen `student`, indem Sie im Codeboard-Menü auf "Project -> Add Folder" gehen. Alle Klassen außer der `Main.java` sollten in diesem Paket getan und in der ersten Zeile `package student;` enhalten.
 * Die `Main.java`, die die Main-Methode enthält, müssen Sie selber anlegen. 
 
 ## Enumeration `StudyCourse`
 
-Erstellen Sie im Paket `student` eine Enumeration für Studiengänge mit dem Namen `StudyCourse`. Zur Erinnerung: Der Name einer Enum sollte mit einem Großbuchstaben beginnen.
+Erstellen Sie im Paket `student` eine Enumeration für Studiengänge mit dem Namen `StudyCourse`.
 
 * Die Studiengänge bei unserem Fachbereich sind:
   * Medieninformatik
@@ -76,7 +76,7 @@ Erstellen Sie im Paket `student` eine Enumeration für Studiengänge mit dem Nam
   * Druck und Medientechnik
   * Screen Based Media
 
- Bitte achten Sie auf die korrekte Schreibweise der Enumerations-Konstanten. Beispiel:
+ Der Name einer Enum sollte mit mit Großbuchstaben geschrieben werden, wobei Wörter mit einem Unterstrich (`_`) getrennt werden. Bitte achten Sie auf die korrekte Schreibweise der Enumerations-Konstanten. Beispiel:
 * `MEINE_TOLLE_KONSTANTE` (richtig)
 * `meinetollekonstante` (falsch)
 * `meine-tolle-konstante` (falsch)
@@ -84,24 +84,19 @@ Erstellen Sie im Paket `student` eine Enumeration für Studiengänge mit dem Nam
 
 ## Klasse `Course`
 
-* Schreiben Sie im Paket `student` eine Klasse mit dem Namen `Course`, mit zwei Attributen `String name` und `String teacher`, einen Kontruktor der beide Attribute als Parameter trägt, und entspechende Getter und Setter.
+* Schreiben Sie im Paket `student` eine Klasse mit dem Namen `Course`, mit zwei Attributen `String name` und `String teacher`, einen Konstruktor der beide Attribute als Parameter trägt, und entspechende Getter und Setter.
 
 ## Klasse `Student`
 
-* Kopieren Sie zuden Ihre `Student`-Klasse aus der letzten Übung und fügen Sie sie in das Paket `student` ein.
+* Kopieren Sie zudem Ihre `Student`-Klasse aus der letzten Übung und fügen Sie sie in das Paket `student` ein. Sie müssen in der ersten Zeile das Paket der Klasse deklarieren.
 * Ersetzen Sie den Datentypen des Attributs `course` (Aktuell vom Typ `String`) und nutzen Sie ihre `StudyCourse` Enumeration.
-* Das Attribut benennen Sie um von `course` in `studyCourse` um. Denken Sie daran alle Konstruktor, Setter und Getter auch anzupassen (Datentyp und Benennnung).
+* Das Attribut benennen Sie von `course` in `studyCourse` um. Denken Sie daran alle Konstruktor, Setter und Getter auch anzupassen (Datentyp und Benennnung).
 * Fügen Sie der Klasse `Student` ein neues Attribut `age` vom Typ `int` hinzu.
 
 ### Konstruktoren
 
 * Schreiben sie drei Konstruktoren für die `Student` Klasse:
 ** 
-
-| | | | | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|__Punkte (ab):__| 95 | 90 | 85 | 80 | 75 | 70 | 65 | 60 | 55 | 50 | 0-49 |
-|__Note:__       | 1,0| 1,3| 1,7| 2,0| 2,3| 2,7| 3,0| 3,3| 3,7| 4,0| 5,0  |
 
 | Konstruktor | Parameter | Verhalten |
 |-------------|-----------|-----------|
@@ -116,7 +111,7 @@ Schreiben Sie für alle Attribute der `Student` Klasse Getter und Setter.
 ### Erweitern der `Student` Klasse zum das Belegen von Fächern (`Course`) zu ermöglichen
 
 * Erweitern Sie die `Student` Klasse einem neuen Attribut `Course[] bookedCourses`, welches die gebuchten Kurse eines Studenten pflegt. Die länge des Arrays soll `5` sein.
-* Im Default-Konstruktor füllen Sie bitte alle Felder des `bookedCourses`-Arrays mit dem Wert `null`.
+* Im Konstruktor 3 (Haupt-Konstruktor) füllen Sie bitte alle Felder des `bookedCourses`-Arrays mit dem Wert `null`.
 * Schreiben Sie eine Methode `bookCourse(Course course)`, die im `bookedCourses` Array den nächsten freien Platz findet (also `!= null`) und den Kurs, welches die Methode über den `course` Parameter empfängt, speichert.
 * Sind bereits alle Plätze im Array (`5`) gefüllt, so soll nichts passieren (es soll also kein Wert überschrieben werden).
 
