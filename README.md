@@ -70,10 +70,10 @@ Sie finden den detaillierten Zeitplan des Semesters in diesem [Google Spreadshee
 
 ### Klausuren
 
-- ***Hauptklausur: am Fr 22.07.2022, 10:00 Uhr, Raum B101***
-  - Rückgabe: am Fr 29.07.2022, 10:00 Uhr, Raum B101
-- Nachklausur: am Fr 16.09.2022, 10:00 Uhr, Raum B101
-  - Rückgabe am Fr 23.09.2022, 10:00 Uhr, Raum B101
+- ***Hauptklausur am Fr 22.07.2022, 10:00 Uhr, Raum B101***
+  - Rückgabe/Besprechnung am Fr 27.07.2022, 12:15 Uhr, Raum D 136 / H5
+- Nachklausur am Fr 16.09.2022, 10:00 Uhr, Raum B101
+  - Rückgabe/Besprechung am Fr 23.09.2022, 10:00 Uhr, Raum B101
 
 ### Belegungszeitraum 
 
