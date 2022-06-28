@@ -9,13 +9,13 @@ In dieser Übung scheiben Sie ein Programm, welches auf Basis von Geschwindigkei
 
 ## codeboard.io 
 
-Rufen Sie das Codeboard zur [Übung 9 im Moodle-Kurs]https://lms.bht-berlin.de/mod/lti/view.php?id=918231) auf. 
+Rufen Sie das Codeboard zur [Übung 9 im Moodle-Kurs](https://lms.bht-berlin.de/mod/lti/view.php?id=918231) auf. 
 
 Falls Sie in Codeboard nicht eingeloggt sind, melden Sie sich bitte mit dem Codeboard-Account ein, den Sie in der [Übung 0](../bht_pr1_submission_00/README.md) angelegt haben.
 
 ## Aufgabe
 
-* Eine Messung hat vier Spalten
+* Eine Messung hat vier Eigenschaften/Attribute
   * `badge`: Das Nummernschild des Autos
   * `start`: Die Start-Zeit der Messung
   * `end`:   Die End-Zeit der Messung
@@ -71,8 +71,8 @@ wobei `X-YZ xxxx` und `xx.x` nur Beispielwerte sind.
 
 ### Codeboard
 
-* Das codeboard-projekt enthält die `Main.java` und die `TicketMachine.java`.
-
+* Das codeboard-projekt enthält die `Main.java` und die `TicketMachine.java`. 
+* In der `Main.java` ist ein String (`input`) mit einigen Beispielmessungen, aber auch mit Fehlmessungen (z.B. zusätzliche `\n`) definiert.
 
 ## Hilfreiche Klassen und Methoden
 
