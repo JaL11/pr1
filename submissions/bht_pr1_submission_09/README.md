@@ -58,7 +58,7 @@ Total transit count: x
 wo bei `x` die Anzahl der einlesbaren Messungen ist.
 
 ### Regeln um ein Parkticket auszustellen:
-* Jede Messung hat eine 75%ige Chance stichprbenartig ausgewählt zu werden.
+* Jede Messung hat eine ***75%ige Chance*** stichprobenartig ausgewählt zu werden.
 * Wenn eine Messung ausgewählt ist, so darf die Geschwindigkeit nicht höher als 50 km/h sein.
 * Ist die Geschwindigkeit zu hoch wird folgende Ausgabe auf der Konsole erwartet:
 
