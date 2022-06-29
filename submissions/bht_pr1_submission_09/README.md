@@ -123,7 +123,7 @@ ergibt die Integer-Zahl `1000`.
 Bei diesem Code:
 ```
 Random random = new Random();
-if(random.nextDouble() > 0.33) {
+if(random.nextDouble() <= 0.33) {
     // ...
 }
 ```
